@@ -1,2 +1,4 @@
 # curso-teste
-exercícios
+********************
+exercícios do curso de R 
+primeira mudança
